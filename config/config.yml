@@ -16,7 +16,7 @@ theme: magazine                      # The name of your custom theme
 themes_url: ~                       # Pico will try to guess the URL to the themes dir of your installation;
                                     #     If this fails, override it here. Example: https://example.com/pico/themes/
 theme_config:                       # Additional theme-specific config
-    widescreen: false               # Default theme: Use more horizontal space (i.e. make the site container wider)
+    widescreen: true               # Default theme: Use more horizontal space (i.e. make the site container wider)
 twig_config:                        # Twig template engine config
     autoescape: html                # Let Twig escape variables by default
     strict_variables: false         # If set to true, Twig will bail out when unset variables are being used
@@ -31,8 +31,8 @@ twig_config:                        # Twig template engine config
 date_format: %D %T                  # Pico's default date format;
                                     #     See https://php.net/manual/en/function.strftime.php for more info
 pages_order_by_meta: author         # Sort pages by meta value "author" (set "pages_order_by" to "meta")
-pages_order_by: alpha               # Change how Pico sorts pages ("alpha" for alphabetical order, "date", or "meta")
-pages_order: asc                    # Sort pages in ascending ("asc") or descending ("desc") order
+pages_order_by: date               # Change how Pico sorts pages ("alpha" for alphabetical order, "date", or "meta")
+pages_order: desc                    # Sort pages in ascending ("asc") or descending ("desc") order
 content_dir: ~                      # The path to Pico's content directory
 content_ext: .md                    # The file extension of your Markdown files
 content_config:                     # Parsedown Markdown parser config
