@@ -12,3 +12,6 @@ Herein is intended to be a place to expose ones self, others and nature safely a
 
 ## FakesBook.
 ### the Un-Social!
+
+
+#### chat: https://discord.gg/GzJntqwK
