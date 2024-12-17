@@ -16,9 +16,5 @@ Herein is intended to be a place to expose ones self, others and nature safely a
 
 #### chat: https://discord.gg/GzJntqwK
 
-##### page
-<ul>
-    page in pages("gallery.md")
-</ul>
 
 
