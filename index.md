@@ -18,9 +18,7 @@ Herein is intended to be a place to expose ones self, others and nature safely a
 
 ##### page
 <ul>
-    {% for page in pages("gallery") %}
-        <li><a href="{{ gallery.md }}">{{ gallery }}</a></li>
-    {% endfor %}
+    page in pages("gallery.md")
 </ul>
 
 
