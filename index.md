@@ -16,4 +16,4 @@ Herein is intended to be a place to expose ones self, others and nature safely a
 
 #### chat: https://discord.gg/GzJntqwK
 
-<iframe src="https://www.icloud.com/sharedalbum/#B21532ODW7DWUcF" width="93%" height="79%"></iframe>
+
