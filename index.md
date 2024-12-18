@@ -14,7 +14,7 @@ Herein is intended to be a place to expose ones self, others and nature safely a
 ### the Un-Social!
 
 
-#### chat: https://discord.gg/GzJntqwK
-
+#### chat:
+https://discord.com/channels/790137365637234689/790137520138354688
 
 
